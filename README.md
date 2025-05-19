@@ -16,3 +16,4 @@
 
 По всем вопросам просьба обращаться по адресу cyberimmunity-edu@kaspersky.com
 
+Смотреть описание шаблона _"Безопасная загрузка"_ для итогового проекта по [ссылке](https://github.com/FergeSS/cyberimmune-autonomy--chvt-preview/blob/master/description.md)
